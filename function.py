@@ -24,7 +24,7 @@ def add():
 x=add()
 print(x)
 print(type(x))
-'''
+
 
 def is_even(l):
     list1=[]
@@ -50,4 +50,8 @@ y=[1,8,6,3,2]
 var=map(lambda x,y:x+y, x,y)
 new=list(var)
 print(new)
+'''
 
+x=10
+y=20
+print(x+y)
