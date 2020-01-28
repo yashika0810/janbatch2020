@@ -54,5 +54,5 @@ print(new)
 
 x=10
 y=20
-z=200
+z=300
 print(x+y+z)
