@@ -19,3 +19,4 @@ class test:
         self.age=age
 obj1=test('yashika',24)
 print(obj1.name,obj1.age)
+print('added a new line')
